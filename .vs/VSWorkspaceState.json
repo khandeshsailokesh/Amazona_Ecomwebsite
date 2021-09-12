@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\models",
+    "\\backend\\routers",
+    "\\frontend\\public",
+    "\\frontend\\src",
+    "\\frontend\\src\\constants",
+    "\\frontend\\src\\reducers",
+    "\\frontend\\src\\screens",
+    "\\template"
+  ],
+  "SelectedNode": "\\backend\\data.js",
+  "PreviewInSolutionExplorer": false
+}
