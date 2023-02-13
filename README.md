@@ -1,7 +1,12 @@
-This project is all about building a Ecom Website similar to Amazon.
+
+>> This project is all about building a Ecom Website similar to Amazon.
+
+![amazona](https://user-images.githubusercontent.com/53443055/218458924-cdaab309-124e-4146-a178-7c1dd4a70eec.jpg)
+
 Demo Website
 👉 Heroku : https://react-amazona.herokuapp.com
 👉 Heroku Mirror: https://react-amazona-mirror.herokuapp.com
+
 Run Locally
 1. Clone repo
 $ git clone git@github.com:basir/amazona.git
