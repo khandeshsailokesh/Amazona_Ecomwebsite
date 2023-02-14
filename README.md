@@ -8,7 +8,7 @@
  # Run Locally
   ### 1. Clone repo
   ```bash
-  $ git clone git@github.com:basir/mern-amazona.git
+  $ git clone https://github.com/khandeshsailokesh/Amazona_Ecomwebsite.git
   $ cd mern-amazona
 ```
 ### 2. Create .env File
