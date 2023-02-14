@@ -9,7 +9,6 @@
   ### 1. Clone repo
   ```bash
   $ git clone https://github.com/khandeshsailokesh/Amazona_Ecomwebsite.git
-  $ cd mern-amazona
 ```
 ### 2. Create .env File
 - duplicate .env.example in backend folder and rename it to .env
